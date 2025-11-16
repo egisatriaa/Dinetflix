@@ -86,7 +86,7 @@ npm install
 ### **2. Build Tailwind (jika CLI)**
 
 ```
-npx tailwindcss -i ./src/input.css -o ./output.css --watch
+npx tailwindcss -i ./input.css -o ./output.css --watch
 ```
 
 ---
