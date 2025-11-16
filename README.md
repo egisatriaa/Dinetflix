@@ -1,3 +1,6 @@
+#Preview Website
+https://egisatriaa.github.io/Dinetflix/index.html
+
 # 📺 Dinetflix --- Modern Streaming Landing Page
 
 Dinetflix adalah proyek front-end yang terinspirasi dari Netflix, dibangun menggunakan **HTML**, **Tailwind CSS**, **JavaScript**, dan beberapa animasi interaktif.\
